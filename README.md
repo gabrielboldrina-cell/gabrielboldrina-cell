@@ -1,16 +1,104 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gabrielboldrina-cell/gabrielboldrina-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gabriel Boldrina
 
-Here are some ideas to get you started:
+### Backend Developer · Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Systems Development Student at SENAI**
+
+<br>
+
+💻 Backend • 🌐 Web Development • 🐘 PHP & Laravel 
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+Tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas no SENAI**, construindo minha jornada na área de tecnologia.
+Meu foco principal atualmente é **desenvolvimento Backend e Web**, buscando transformar o que aprendo em aplicações funcionais e entender cada vez melhor como os sistemas funcionam por trás das interfaces.
+Gosto de aprender na prática, experimentar novas tecnologias.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=php,laravel)
+
+### Banco de Dados
+
+![Database](https://skillicons.dev/icons?i=mysql)
+
+### Front-end
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap)
+
+### Linguagens
+
+![Languages](https://skillicons.dev/icons?i=php,cpp)
+
+### Ferramentas
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,linux)
+
+### Outros
+
+* ⚡ Laravel Herd
+* 🧪 Thunder Client
+* 📋 Trello
+* 🎨 Figma
+
+---
+
+## 📚 Atualmente estudando
+
+🐘 **PHP & Laravel**
+Desenvolvimento Backend, POO, Eloquent, Controllers, Models, Migrations e APIs REST.
+
+🗄️ **MySQL & SQL**
+Relacionamentos, JOINs, procedures, consultas, modelagem e otimização.
+
+🔀 **Git & GitHub**
+Versionamento, organização de projetos e fluxo de desenvolvimento.
+
+🧠 **Fundamentos de programação**
+Lógica, algoritmos, estruturas de dados e boas práticas.
+
+---
+
+## 🎯 Objetivos
+
+Meu objetivo é me tornar um **desenvolvedor Backend**, construindo uma base sólida em programação e adquirindo experiência com diferentes tecnologias e arquiteturas.
+Também quero continuar evoluindo no **Front-end**, não necessariamente para me especializar nele, mas para compreender melhor todo o processo de desenvolvimento de uma aplicação.
+
+> **Aprender. Construir. Errar. Melhorar. Repetir.**
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+## ## 📫 Contato
+
+<div align="center">
+
+**LinkedIn** · [Gabriel Boldrina](https://www.linkedin.com/in/gabriel-boldrina/)
+**Email** · [gabriel.boldrina@gmail.com](mailto:gabriel.boldrina@gmail.com)
+
+</div>
+
+
+### 🚀 Always learning. Always building.
+
+</div>
