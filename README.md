@@ -77,17 +77,6 @@ Também quero continuar evoluindo no **Front-end**, não necessariamente para me
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
 
 ## ## 📫 Contato
 
