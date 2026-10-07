@@ -20,14 +20,6 @@ Gosto de aprender na prática, experimentar novas tecnologias.
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Desenvolvimento de Sistemas no SENAI** e meu foco atual é **Backend e Web**. Quero transformar o que aprendo em aplicações funcionais e entender como os sistemas funcionam por trás das interfaces.
-
-Gosto de aprender na prática e de experimentar novas tecnologias.
-
----
-
 
 ## 🛠️ Tecnologias e ferramentas
 
