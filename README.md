@@ -61,8 +61,17 @@ Também quero evoluir no **Front-end**, não para me especializar, mas para ente
 ---
 
 <div align="center">
+## 📫 Contato
+
+<div align="center">
+
+**LinkedIn** · [Gabriel Boldrina](https://www.linkedin.com/in/gabriel-boldrina/)
+**Email** · [gabriel.boldrina@gmail.com](mailto:gabriel.boldrina@gmail.com)
+
+</div>
 
 ### 🚀 Always learning. Always building.
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,100:1a1a1a&height=100&section=footer" alt="Rodapé" width="100%" />
 
