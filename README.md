@@ -1,70 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,100:1a1a1a&height=190&section=header&text=Gabriel%20Boldrina&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Web%20Development&descSize=18&descAlignY=60" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,50:3a0a0a,100:0d0d0d&height=240&section=header&text=Gabriel%20Boldrina&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Web%20Development&descSize=18&descColor=e5e5e5&descAlignY=60&animation=fadeIn" alt="Gabriel Boldrina" width="100%" />
 
-## 👨‍💻 Sobre mim
-Tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas no SENAI**, construindo minha jornada na área de tecnologia.
-Meu foco principal atualmente é **desenvolvimento Backend e Web**, buscando transformar o que aprendo em aplicações funcionais e entender cada vez melhor como os sistemas funcionam por trás das interfaces.
-Gosto de aprender na prática, experimentar novas tecnologias.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=FF3B3B&center=true&vCenter=true&width=560&height=40&lines=Estudante+de+Desenvolvimento+de+Sistemas;PHP+%C2%B7+Laravel+%C2%B7+MySQL;" alt="Typing SVG" />
 
-**Estudante de Desenvolvimento de Sistemas no SENAI**
+<br />
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-boldrina/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.boldrina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b1111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-boldrina/)
+[![Email](https://img.shields.io/badge/Email-8b1111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.boldrina@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8b1111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel-boldrina)
 
 </div>
 
----
+<br />
 
+<h2 align="center">Sobre mim</h2>
 
-## 🛠️ Tecnologias e ferramentas
+<p align="center">
+Tenho <b>17 anos</b> e estudo <b>Desenvolvimento de Sistemas no SENAI</b>, construindo minha carreira em tecnologia.<br />
+Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> e gosto de entender como um sistema funciona<br />
+<b>do banco de dados até a interface</b>.
+</p>
 
-| Área | Tecnologias |
+<div align="center">
+
+| 🔎 Curioso | 🛠️ Aprendo na prática | 💪 Persistente |
+|:-:|:-:|:-:|
+| **🧩 Resolvo problemas** | **⚙️ Entendo como funciona** | **📈 Sempre evoluindo** |
+
+</div>
+
+<br />
+
+<h2 align="center">Stack e ferramentas</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,bootstrap,git,github,vscode,figma,linux&theme=dark&perline=13" alt="Stack e ferramentas" />
+
+<br /><br />
+
+![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-0d0d0d?style=for-the-badge&logo=laravel&logoColor=ff3b3b)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-0d0d0d?style=for-the-badge&logoColor=ff3b3b)
+![Trello](https://img.shields.io/badge/Trello-0d0d0d?style=for-the-badge&logo=trello&logoColor=ff3b3b)
+
+</div>
+
+<br />
+
+<h2 align="center">Estudando agora</h2>
+
+<div align="center">
+
+| Tema | Foco |
 |:--|:--|
-| **Backend** | ![PHP](https://skillicons.dev/icons?i=php,laravel) |
-| **Banco de dados** | ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| **Front-end** | ![Front](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap) |
-| **Outras linguagens** | ![Cpp](https://skillicons.dev/icons?i=cpp) |
-| **Ferramentas** | ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,linux) |
-
-**No dia a dia também uso:** ⚡ Laravel Herd · 🧪 Thunder Client · 📋 Trello
-
----
-
-## 📚 Atualmente estudando
-
-| | Tema | O que estou aprendendo |
-|:-:|:--|:--|
-| 🐘 | **PHP e Laravel** | POO, Controllers, Models, Migrations, Eloquent e APIs REST |
-| 🔀 | **Git e GitHub** | Versionamento, organização de projetos e fluxo de trabalho |
-| 🧠 | **Fundamentos** | Lógica, algoritmos, estruturas de dados e boas práticas |
-
----
-
-## 🎯 Objetivos
-
-Quero me tornar **desenvolvedor Backend**, construindo uma base sólida em programação e ganhando experiência com diferentes tecnologias e arquiteturas.
-Também quero evoluir no **Front-end**, não para me especializar, mas para entender melhor todo o processo de desenvolvimento de uma aplicação.
-> **Aprender. Construir. Errar. Melhorar. Repetir.**
----
-
-<div align="center">
-## 📫 Contato
-
-<div align="center">
-
-**LinkedIn** · [Gabriel Boldrina](https://www.linkedin.com/in/gabriel-boldrina/)
-**Email** · [gabriel.boldrina@gmail.com](mailto:gabriel.boldrina@gmail.com)
+| 🐘 **PHP e Laravel** | POO, Controllers, Models, Migrations, Eloquent, validações e APIs REST |
+| 🗄️ **Banco de dados** | JOIN, GROUP BY, HAVING, procedures, modelagem, normalização, índices e transações |
+| 🔀 **Git e GitHub** | Versionamento e fluxo de trabalho |
+| 🧠 **Fundamentos** | Lógica, algoritmos, estruturas de dados e boas práticas |
 
 </div>
 
-### 🚀 Always learning. Always building.
+<br />
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,100:1a1a1a&height=100&section=footer" alt="Rodapé" width="100%" />
+<h2 align="center">Objetivo</h2>
+
+<p align="center">
+Me tornar <b>desenvolvedor Backend</b>, com base sólida em <b>programação, banco de dados, APIs e arquitetura de sistemas</b>,<br />
+e evoluir também no <b>Front-end</b> para compreender o desenvolvimento completo de uma aplicação.
+</p>
+
+<div align="center">
+
+### `Aprender. Construir. Errar. Melhorar. Repetir.`
+
+<br />
+
+**🚀 Always learning. Always building.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,50:3a0a0a,100:0d0d0d&height=120&section=footer" alt="Rodapé" width="100%" />
 
 </div>
