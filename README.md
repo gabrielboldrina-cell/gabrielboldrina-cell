@@ -74,7 +74,7 @@ Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> 
     <td width="50%" valign="top">
       <h3 align="center">🧠 Programming</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,python" />
+        <img src="https://skillicons.dev/icons?i=python" />
       </p>
       <p align="center">
         <b>Lógica & Fundamentos</b><br />
@@ -98,9 +98,6 @@ Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> 
 
 <br />
 
-<p align="center">
-  <i>Aprendendo na prática, um projeto de cada vez. 🚀</i>
-</p>
 
 </div>
 
