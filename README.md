@@ -121,10 +121,16 @@ Meu objetivo é me especializar em <b>desenvolvimento Backend</b>, aprofundando 
 <br />
 
 **🚀 Always learning. Always building.**
-<div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-boldrina/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <a href="mailto:gabriel.boldrina@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" alt="Gmail" />
+  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,50:3a0a0a,100:0d0d0d&height=120&section=footer" alt="Rodapé" width="100%" />
