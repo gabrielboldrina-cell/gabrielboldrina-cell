@@ -6,10 +6,12 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b1111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-boldrina/)
-[![Email](https://img.shields.io/badge/Email-8b1111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.boldrina@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8b1111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel-boldrina)
 
+###
+
+
+
+###
 </div>
 
 <br />
@@ -22,42 +24,83 @@ Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> 
 <b>do banco de dados até a interface</b>.
 </p>
 
-<div align="center">
-
-| 🔎 Curioso | 🛠️ Aprendo na prática | 💪 Persistente |
-|:-:|:-:|:-:|
-| **🧩 Resolvo problemas** | **⚙️ Entendo como funciona** | **📈 Sempre evoluindo** |
-
-</div>
-
 <br />
 
 <h2 align="center">Stack e ferramentas</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,bootstrap,git,github,vscode,figma,linux&theme=dark&perline=13" alt="Stack e ferramentas" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github,vscode,linux&theme=dark&perline=13" alt="Stack e ferramentas" />
 
-<br /><br />
-
-![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-0d0d0d?style=for-the-badge&logo=laravel&logoColor=ff3b3b)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-0d0d0d?style=for-the-badge&logoColor=ff3b3b)
-![Trello](https://img.shields.io/badge/Trello-0d0d0d?style=for-the-badge&logo=trello&logoColor=ff3b3b)
 
 </div>
 
 <br />
 
-<h2 align="center">Estudando agora</h2>
+<h2 align="center">📚 Atualmente explorando</h2>
+
+<p align="center">
+  Evoluindo um pouco a cada dia, com foco em aprender na prática e construir uma base sólida em desenvolvimento.
+</p>
+
+<br />
 
 <div align="center">
 
-| Tema | Foco |
-|:--|:--|
-| 🐘 **PHP e Laravel** | POO, Controllers, Models, Migrations, Eloquent, validações e APIs REST |
-| 🗄️ **Banco de dados** | JOIN, GROUP BY, HAVING, procedures, modelagem, normalização, índices e transações |
-| 🔀 **Git e GitHub** | Versionamento e fluxo de trabalho |
-| 🧠 **Fundamentos** | Lógica, algoritmos, estruturas de dados e boas práticas |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐘 Backend Development</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=php,laravel" />
+      </p>
+      <p align="center">
+        <b>PHP & Laravel</b><br />
+        Programação orientada a objetos, Models, Controllers, Migrations, Eloquent e APIs REST.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗄️ Database</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" />
+      </p>
+      <p align="center">
+        <b>MySQL & SQL</b><br />
+        Consultas avançadas, JOINs, agrupamentos, procedures, modelagem, índices e transações.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Programming</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,python" />
+      </p>
+      <p align="center">
+        <b>Lógica & Fundamentos</b><br />
+        Algoritmos, estruturas de dados, resolução de problemas e boas práticas de programação.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔀 Development Workflow</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      </p>
+      <p align="center">
+        <b>Ferramentas & Organização</b><br />
+        Versionamento com Git, GitHub, organização de projetos e melhoria contínua do código.
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+<p align="center">
+  <i>Aprendendo na prática, um projeto de cada vez. 🚀</i>
+</p>
 
 </div>
 
@@ -67,8 +110,8 @@ Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> 
 <h2 align="center">Objetivo</h2>
 
 <p align="center">
-Me tornar <b>desenvolvedor Backend</b>, com base sólida em <b>programação, banco de dados, APIs e arquitetura de sistemas</b>,<br />
-e evoluir também no <b>Front-end</b> para compreender o desenvolvimento completo de uma aplicação.
+Meu objetivo é me especializar em <b>desenvolvimento Backend</b>, aprofundando meus conhecimentos em programação, bancos de dados, APIs e arquitetura de sistemas. Quero construir aplicações cada vez mais robustas, eficientes e bem estruturadas, sem deixar de evoluir no <b>Front-end</b> para entender e desenvolver soluções completas de ponta a ponta.
+
 </p>
 
 <div align="center">
@@ -78,7 +121,14 @@ e evoluir também no <b>Front-end</b> para compreender o desenvolvimento complet
 <br />
 
 **🚀 Always learning. Always building.**
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,50:3a0a0a,100:0d0d0d&height=120&section=footer" alt="Rodapé" width="100%" />
 
 </div>
+
+###
