@@ -56,7 +56,7 @@ Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> 
       </p>
       <p align="center">
         <b>PHP & Laravel</b><br />
-        Programação orientada a objetos, Models, Controllers, Migrations, Eloquent e APIs REST.
+        Programação orientada a objetos, Models, Controllers, Migrations e APIs REST.
       </p>
     </td>
     <td width="50%" valign="top">
