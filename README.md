@@ -113,8 +113,6 @@ Meu objetivo é me especializar em <b>desenvolvimento Backend</b>, aprofundando 
 
 <div align="center">
 
-### `Aprender. Construir. Errar. Melhorar. Repetir.`
-
 <br />
 
 **🚀 Always learning. Always building.**
