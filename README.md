@@ -9,8 +9,6 @@
 
 ###
 
-
-
 ###
 </div>
 
@@ -19,7 +17,7 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
-Tenho <b>17 anos</b> e estudo <b>Desenvolvimento de Sistemas no SENAI</b>, construindo minha carreira em tecnologia.<br />
+Estudo <b>Desenvolvimento de Sistemas no SENAI</b>, construindo minha carreira em tecnologia.<br />
 Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> e gosto de entender como um sistema funciona<br />
 <b>do banco de dados até a interface</b>.
 </p>
@@ -37,7 +35,7 @@ Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> 
 
 <br />
 
-<h2 align="center">📚 Atualmente explorando</h2>
+<h2 align="center">📚 Atualmente</h2>
 
 <p align="center">
   Evoluindo um pouco a cada dia, com foco em aprender na prática e construir uma base sólida em desenvolvimento.
@@ -66,7 +64,7 @@ Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> 
       </p>
       <p align="center">
         <b>MySQL & SQL</b><br />
-        Consultas avançadas, JOINs, agrupamentos, procedures, modelagem, índices e transações.
+        Consultas avançadas, JOINs, agrupamentos, procedures, triggers, modelagem e transações.
       </p>
     </td>
   </tr>
