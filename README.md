@@ -1,123 +1,103 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,50:3a0a0a,100:0d0d0d&height=240&section=header&text=Gabriel%20Boldrina&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Web%20Development&descSize=18&descColor=e5e5e5&descAlignY=60&animation=fadeIn" alt="Gabriel Boldrina" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,50:3a0a0a,100:0d0d0d&height=230&section=header&text=Gabriel%20Boldrina&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Systems%20Development%20Student&descSize=16&descColor=e5e5e5&descAlignY=60&animation=fadeIn" width="100%" alt="Gabriel Boldrina" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=FF3B3B&center=true&vCenter=true&width=560&height=40&lines=Estudante+de+Desenvolvimento+de+Sistemas;PHP+%C2%B7+Laravel+%C2%B7+MySQL;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=FF3B3B&center=true&vCenter=true&width=600&height=40&lines=Desenvolvimento+Backend;PHP+%7C+Laravel+%7C+MySQL;Construindo+solu%C3%A7%C3%B5es+com+tecnologia" alt="Apresentação animada" />
 
-<br />
-
-
-###
-
-###
 </div>
 
-<br />
+---
 
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
-Estudo <b>Desenvolvimento de Sistemas no SENAI</b>, construindo minha carreira em tecnologia.<br />
-Meu foco é <b>Backend e Web</b>. Aprendo através de <b>projetos práticos</b> e gosto de entender como um sistema funciona<br />
-<b>do banco de dados até a interface</b>.
+  Sou estudante de <b>Desenvolvimento de Sistemas no SENAI</b>, interessado em tecnologia e desenvolvimento de software.
+  <br /><br />
+  Tenho foco em <b>Backend Development</b>, especialmente com PHP, Laravel e MySQL. Gosto de desenvolver projetos práticos, explorar novas tecnologias e compreender como cada parte de uma aplicação se conecta, desde a lógica de negócio até a estrutura do banco de dados.
+  <br /><br />
+  Estou constantemente aprimorando minhas habilidades em programação, buscando escrever códigos mais organizados, eficientes e de fácil manutenção.
 </p>
 
-<br />
+<h2 align="center">Tecnologias e ferramentas</h2>
 
-<h2 align="center">Stack e ferramentas</h2>
+<h3 align="center">Backend & Database</h3>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github,vscode,linux&theme=dark&perline=13" alt="Stack e ferramentas" />
-
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="PHP, Laravel e MySQL" />
 </div>
 
-<br />
-
-<h2 align="center">📚 Atualmente</h2>
-
-<p align="center">
-  Evoluindo um pouco a cada dia, com foco em aprender na prática e construir uma base sólida em desenvolvimento.
-</p>
-
-<br />
+<h3 align="center">Frontend</h3>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript e Bootstrap" />
+</div>
+
+<h3 align="center">Ferramentas</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code" />
+</div>
+
+---
+
+<h2 align="center">Conhecimentos em desenvolvimento</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🐘 Backend Development</h3>
+      <h3 align="center">Backend Development</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=php,laravel" />
       </p>
       <p align="center">
-        <b>PHP & Laravel</b><br />
-        Programação orientada a objetos, Models, Controllers, Migrations e APIs REST.
+        Desenvolvimento com PHP e Laravel, orientação a objetos, arquitetura MVC, Models, Controllers, Migrations e construção de APIs REST.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🗄️ Database</h3>
+      <h3 align="center">Database Management</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=mysql" />
       </p>
       <p align="center">
-        <b>MySQL & SQL</b><br />
-        Consultas avançadas, JOINs, agrupamentos, procedures, triggers, modelagem e transações.
+        Modelagem de bancos de dados relacionais, consultas SQL, relacionamentos, JOINs e organização de dados.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Programming</h3>
+      <h3 align="center">Frontend Development</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
       </p>
       <p align="center">
-        <b>Lógica & Fundamentos</b><br />
-        Algoritmos, estruturas de dados, resolução de problemas e boas práticas de programação.
+        Desenvolvimento de interfaces web, estruturação de páginas, estilização e implementação de interações.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔀 Development Workflow</h3>
+      <h3 align="center">Development Workflow</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=git,github,vscode" />
       </p>
       <p align="center">
-        <b>Ferramentas & Organização</b><br />
-        Versionamento com Git, GitHub, organização de projetos e melhoria contínua do código.
+        Controle de versão com Git, gerenciamento de repositórios no GitHub e organização do ambiente de desenvolvimento.
       </p>
     </td>
   </tr>
 </table>
 
-</div>
+---
 
-<br />
-
-
-</div>
-
-<br />
-
-
-<h2 align="center">Objetivo</h2>
+<h2 align="center">Em constante evolução</h2>
 
 <p align="center">
-Meu objetivo é me especializar em <b>desenvolvimento Backend</b>, aprofundando meus conhecimentos em programação, bancos de dados, APIs e arquitetura de sistemas. Quero construir aplicações cada vez mais robustas, eficientes e bem estruturadas, sem deixar de evoluir no <b>Front-end</b> para entender e desenvolver soluções completas de ponta a ponta.
-
+  Atualmente, estou focado em fortalecer minha base de programação, aprofundar meus conhecimentos em desenvolvimento Backend e aprimorar minha capacidade de resolver problemas por meio do código.
+  <br /><br />
+  Acredito que a evolução como desenvolvedor acontece através da prática, da curiosidade e da construção de projetos cada vez melhores.
 </p>
 
-<div align="center">
+<h2 align="center">Objetivo profissional</h2>
 
-<br />
-
-**🚀 Always learning. Always building.**
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,50:3a0a0a,100:0d0d0d&height=120&section=footer" alt="Rodapé" width="100%" />
-
-</div>
-
-###
+<p align="center">
+  Meu objetivo é construir uma carreira como <b>desenvolvedor de software</b>, com especialização em Backend Development.
+  <br /><br />
+  Quero aprofundar meus conhecimentos em arquitetura de sistemas, APIs, bancos de dados e
