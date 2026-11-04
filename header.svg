@@ -1,0 +1,72 @@
+
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#090909"/>
+    <stop offset="0.5" stop-color="#260808"/>
+    <stop offset="1" stop-color="#8B1111"/>
+  </linearGradient>
+
+  <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#8B1111" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#FF3B3B"/>
+    <stop offset="1" stop-color="#8B1111" stop-opacity="0"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5"/>
+  </filter>
+</defs>
+
+<rect width="1200" height="280" rx="12" fill="url(#background)"/>
+
+<circle cx="1030" cy="90" r="180" fill="#FF2020" fill-opacity="0.08"/>
+<circle cx="1030" cy="90" r="120" fill="#FF2020" fill-opacity="0.06"/>
+
+<path d="M0 230 L1200 230" stroke="url(#line)" stroke-width="2"/>
+
+<path d="M0 0 L0 280" stroke="#FF3030" stroke-width="5"/>
+
+<g opacity="0.12" stroke="#FF4545">
+  <path d="M850 0 L1100 280"/>
+  <path d="M950 0 L1200 280"/>
+  <path d="M1050 0 L1200 170"/>
+</g>
+
+<text x="600" y="112"
+  text-anchor="middle"
+  fill="#FFFFFF"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="58"
+  font-weight="bold"
+  letter-spacing="1">
+  Gabriel Boldrina
+</text>
+
+<text x="600" y="158"
+  text-anchor="middle"
+  fill="#E5E5E5"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="20"
+  letter-spacing="2">
+  BACKEND DEVELOPER
+</text>
+
+<rect x="490" y="181" width="220" height="3" rx="2" fill="#FF3030"/>
+
+<text x="600" y="211"
+  text-anchor="middle"
+  fill="#BBBBBB"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="15"
+  letter-spacing="1.5">
+  SYSTEMS DEVELOPMENT STUDENT
+</text>
+
+<circle cx="600" cy="250" r="3" fill="#FF3030"/>
+<circle cx="620" cy="250" r="3" fill="#FF3030" opacity="0.5"/>
+<circle cx="640" cy="250" r="3" fill="#FF3030" opacity="0.25"/>
+
+</svg>
+```
