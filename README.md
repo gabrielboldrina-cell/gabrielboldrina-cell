@@ -1,4 +1,5 @@
- <div align="center">
+html
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b1111,50:3a0a0a,100:0d0d0d&height=230&section=header&text=Gabriel%20Boldrina&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Systems%20Development%20Student&descSize=16&descColor=e5e5e5&descAlignY=60&animation=fadeIn" width="100%" alt="Gabriel Boldrina" />
 
@@ -13,9 +14,9 @@
 <p align="center">
   Sou estudante de <b>Desenvolvimento de Sistemas no SENAI</b>, interessado em tecnologia e desenvolvimento de software.
   <br /><br />
-  Tenho foco em <b>Backend Development</b>, especialmente com PHP, Laravel e MySQL. Gosto de desenvolver projetos práticos, explorar novas tecnologias e compreender como cada parte de uma aplicação se conecta, desde a lógica de negócio até a estrutura do banco de dados.
+  Tenho foco em <b>Backend Development</b>, especialmente com PHP, Laravel e MySQL. Gosto de desenvolver projetos práticos, explorar novas tecnologias e compreender como cada parte de uma aplicação funciona e se conecta.
   <br /><br />
-  Estou constantemente aprimorando minhas habilidades em programação, buscando escrever códigos mais organizados, eficientes e de fácil manutenção.
+  Estou constantemente aprimorando minhas habilidades em programação, buscando desenvolver soluções organizadas, eficientes e de fácil manutenção.
 </p>
 
 <h2 align="center">Tecnologias e ferramentas</h2>
@@ -47,19 +48,19 @@
     <td width="50%" valign="top">
       <h3 align="center">Backend Development</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=php,laravel" />
+        <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP e Laravel" />
       </p>
       <p align="center">
-        Desenvolvimento com PHP e Laravel, orientação a objetos, arquitetura MVC, Models, Controllers, Migrations e construção de APIs REST.
+        Desenvolvimento de aplicações utilizando PHP e Laravel, com conhecimentos em arquitetura MVC, orientação a objetos, Models, Controllers, Migrations e APIs REST.
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Database Management</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
       </p>
       <p align="center">
-        Modelagem de bancos de dados relacionais, consultas SQL, relacionamentos, JOINs e organização de dados.
+        Estruturação e gerenciamento de bancos de dados relacionais, consultas SQL, relacionamentos entre tabelas e utilização de JOINs.
       </p>
     </td>
   </tr>
@@ -67,19 +68,19 @@
     <td width="50%" valign="top">
       <h3 align="center">Frontend Development</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript e Bootstrap" />
       </p>
       <p align="center">
-        Desenvolvimento de interfaces web, estruturação de páginas, estilização e implementação de interações.
+        Desenvolvimento de interfaces web, estruturação de páginas, estilização e implementação de interações com JavaScript.
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Development Workflow</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code" />
       </p>
       <p align="center">
-        Controle de versão com Git, gerenciamento de repositórios no GitHub e organização do ambiente de desenvolvimento.
+        Utilização de Git para controle de versão, GitHub para gerenciamento de repositórios e VS Code como ambiente de desenvolvimento.
       </p>
     </td>
   </tr>
@@ -90,14 +91,6 @@
 <h2 align="center">Em constante evolução</h2>
 
 <p align="center">
-  Atualmente, estou focado em fortalecer minha base de programação, aprofundar meus conhecimentos em desenvolvimento Backend e aprimorar minha capacidade de resolver problemas por meio do código.
+  Atualmente, estou focado em fortalecer minha base de programação, aprimorar minha lógica e aprofundar meus conhecimentos em desenvolvimento Backend.
   <br /><br />
-  Acredito que a evolução como desenvolvedor acontece através da prática, da curiosidade e da construção de projetos cada vez melhores.
-</p>
-
-<h2 align="center">Objetivo profissional</h2>
-
-<p align="center">
-  Meu objetivo é construir uma carreira como <b>desenvolvedor de software</b>, com especialização em Backend Development.
-  <br /><br />
-  Quero aprofundar meus conhecimentos em arquitetura de sistemas, APIs, bancos de dados e
+  Também busco ampliar minha experiência com novas tecnologias
