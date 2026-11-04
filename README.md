@@ -14,7 +14,7 @@
 <p align="center">
   Sou estudante de <b>Desenvolvimento de Sistemas no SENAI</b>, interessado em tecnologia e desenvolvimento de software.
   <br /><br />
-  Tenho foco em <b>Backend Development</b>, especialmente com PHP, Laravel e MySQL. Gosto de desenvolver projetos práticos, explorar novas tecnologias e compreender como cada parte de uma aplicação funciona e se conecta.
+  Tenho foco em <b>Backend Development</b>, especialmente com PHP, Laravel e MySQL. Gosto de desenvolver projetos práticos, explorar novas tecnologias e compreender como cada parte de uma aplicação funciona e se conecta, tenho o sonho de trabalhar com programação.
   <br /><br />
   Estou constantemente aprimorando minhas habilidades em programação, buscando desenvolver soluções organizadas, eficientes e de fácil manutenção.
 </p>
