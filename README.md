@@ -93,4 +93,4 @@
 <p align="center">
   Atualmente, estou focado em fortalecer minha base de programação, aprimorar minha lógica e aprofundar meus conhecimentos em desenvolvimento Backend.
   <br /><br />
-  Também busco ampliar minha experiência com novas tecnologias
+  Também busco ampliar minha experiência com novas tecnologias, aprender com os meus erros, e assim melhorando a cada dia!
